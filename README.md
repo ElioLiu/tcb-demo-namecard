@@ -6,7 +6,7 @@
 教你如何借助小程序·云开发能力，提升功能开发效率，在商务礼仪中更能出色的展现自己。
 
 # 资料下载
-### 课程教材
+### 课程教材PDF下载
 https://github.com/TencentCloudBase/tcb-demo-namecard
 
 ![](https://puui.qpic.cn/vupload/0/20190612_1560307562567_qgo8u0hxbz.png/0)
